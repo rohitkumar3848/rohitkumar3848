@@ -135,7 +135,7 @@
     </br>
     </br>
   <a href="https://leetcode.com/u/rohit_kumar38/" target="_blank">
-    <img title="Rohit Kumar LeetCode Stats" alt="Rohit Kumar LeetCode Stats" src="https://leetcode-stats.vercel.app/api?username=rohit_kumar38&theme=dark" />
+   <img title="Rohit Kumar LeetCode Stats" alt="Rohit Kumar's LeetCode Stats" src="https://leetcode-stats.vercel.app/api?username=rohit_kumar38&theme=dark" /> 
   </a>
 </p>
 
