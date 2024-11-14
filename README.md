@@ -41,7 +41,7 @@
       <li>🌱 Currently learning <strong>App Development</strong> and enhancing my skills in Data Structures & Algorithms.</li>
       <li>👯 Looking to collaborate on exciting <strong>App Development</strong> projects!</li>
       <li>🤝 Open to help with any <strong>MERN stack challenges</strong> or DSA topics.</li>
-      <li>👨‍💻 All of my projects are available at <a href="--portfolioLink---" target="_blank"><strong>Portfolio</strong></a></li>
+      <li>👨‍💻 All of my projects are available at <a href="https://67364341c0646f34815748c3--silly-kheer-077077.netlify.app/" target="_blank"><strong>Portfolio</strong></a></li>
       <li>🤝 feel free to connect! <a href="https://www.linkedin.com/in/rohitkumar3848/" target="_blank">LinkedIn</a></li>
       <li>💬 Ask me about <strong>MERN Stack & DSA.</strong></li>
       <li>📫 Reach me at <strong>rohitkumard2003@gmail.com</strong></li>
