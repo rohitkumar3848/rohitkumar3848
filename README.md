@@ -45,7 +45,7 @@
       <li>🤝 feel free to connect! <a href="https://www.linkedin.com/in/rohitkumar3848/" target="_blank">LinkedIn</a></li>
       <li>💬 Ask me about <strong>MERN Stack & DSA.</strong></li>
       <li>📫 Reach me at <strong>rohitkumard2003@gmail.com</strong></li>
-      <li>📄 Know about my experiences: <a href="https://drive.google.com/file/d/1O7alVTMgnvIS5dIi177tNmtJgEmNSi6D/view?usp=drive_link" target="_blank"><strong>Resume</strong></a></li>
+      <li>📄 Know about my experiences: <a href="https://drive.google.com/file/d/1-d2t462WUgJYHvYG0_ItW2LVbmXEnwuE/view" target="_blank"><strong>Resume</strong></a></li>
       <li>⚡ Fun fact: <strong>I’m like a human debugger—always finding problems, whether in code or in life! 😆</strong></li>
     </ul>
   </div>
